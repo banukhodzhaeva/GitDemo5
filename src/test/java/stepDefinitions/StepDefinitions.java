@@ -85,6 +85,9 @@ import java.util.List;
     @When("^User login in to application with username (.+) and password (.+)$")
     public void user_login_in_to_application_with_username_and_password(String username, String password) throws Throwable {
         System.out.println("With Scenario Outline: User logged into application with username --> " + username + " and password --> " + password);
+        System.out.println("First line from Indian guy");
+        System.out.println("Second line from Indian guy");
+
     }
 
 

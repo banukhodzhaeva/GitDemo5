@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1750000,
+              "duration": 1475000,
               "status": "passed"
             },
             "line": 5,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 713000,
+              "duration": 971000,
               "status": "passed"
             },
             "line": 6,
@@ -35,7 +35,7 @@
           },
           {
             "result": {
-              "duration": 787000,
+              "duration": 1987000,
               "status": "passed"
             },
             "line": 7,
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.268Z",
+        "start_timestamp": "2020-03-12T06:34:27.186Z",
         "line": 11,
         "name": "Home page default login",
         "description": "",
@@ -58,7 +58,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1651000,
+              "duration": 2246000,
               "status": "passed"
             },
             "line": 12,
@@ -70,7 +70,7 @@
           },
           {
             "result": {
-              "duration": 836000,
+              "duration": 902000,
               "status": "passed"
             },
             "line": 13,
@@ -92,7 +92,7 @@
           },
           {
             "result": {
-              "duration": 548000,
+              "duration": 762000,
               "status": "passed"
             },
             "line": 14,
@@ -104,7 +104,7 @@
           },
           {
             "result": {
-              "duration": 547000,
+              "duration": 519000,
               "status": "passed"
             },
             "line": 15,
@@ -139,7 +139,7 @@
         "steps": [
           {
             "result": {
-              "duration": 564000,
+              "duration": 1071000,
               "status": "passed"
             },
             "line": 5,
@@ -151,7 +151,7 @@
           },
           {
             "result": {
-              "duration": 489000,
+              "duration": 1111000,
               "status": "passed"
             },
             "line": 6,
@@ -163,7 +163,7 @@
           },
           {
             "result": {
-              "duration": 446000,
+              "duration": 1341000,
               "status": "passed"
             },
             "line": 7,
@@ -176,7 +176,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.340Z",
+        "start_timestamp": "2020-03-12T06:34:27.270Z",
         "line": 18,
         "name": "Home page default login",
         "description": "",
@@ -186,7 +186,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1282000,
+              "duration": 2318000,
               "status": "passed"
             },
             "line": 19,
@@ -198,7 +198,7 @@
           },
           {
             "result": {
-              "duration": 593000,
+              "duration": 1038000,
               "status": "passed"
             },
             "line": 20,
@@ -220,7 +220,7 @@
           },
           {
             "result": {
-              "duration": 719000,
+              "duration": 597000,
               "status": "passed"
             },
             "line": 21,
@@ -232,7 +232,7 @@
           },
           {
             "result": {
-              "duration": 416000,
+              "duration": 684000,
               "status": "passed"
             },
             "line": 22,
@@ -270,7 +270,7 @@
         "steps": [
           {
             "result": {
-              "duration": 344000,
+              "duration": 822000,
               "status": "passed"
             },
             "line": 5,
@@ -282,7 +282,7 @@
           },
           {
             "result": {
-              "duration": 639000,
+              "duration": 551000,
               "status": "passed"
             },
             "line": 6,
@@ -294,7 +294,7 @@
           },
           {
             "result": {
-              "duration": 541000,
+              "duration": 578000,
               "status": "passed"
             },
             "line": 7,
@@ -307,7 +307,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.354Z",
+        "start_timestamp": "2020-03-12T06:34:27.293Z",
         "line": 25,
         "name": "Home page default login",
         "description": "",
@@ -317,7 +317,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1295000,
+              "duration": 1792000,
               "status": "passed"
             },
             "line": 26,
@@ -329,7 +329,7 @@
           },
           {
             "result": {
-              "duration": 1521000,
+              "duration": 2118000,
               "status": "passed"
             },
             "line": 27,
@@ -361,7 +361,7 @@
           },
           {
             "result": {
-              "duration": 327000,
+              "duration": 541000,
               "status": "passed"
             },
             "line": 30,
@@ -373,7 +373,7 @@
           },
           {
             "result": {
-              "duration": 413000,
+              "duration": 670000,
               "status": "passed"
             },
             "line": 31,
@@ -411,7 +411,7 @@
         "steps": [
           {
             "result": {
-              "duration": 338000,
+              "duration": 383000,
               "status": "passed"
             },
             "line": 5,
@@ -423,7 +423,7 @@
           },
           {
             "result": {
-              "duration": 356000,
+              "duration": 957000,
               "status": "passed"
             },
             "line": 6,
@@ -435,7 +435,7 @@
           },
           {
             "result": {
-              "duration": 440000,
+              "duration": 801000,
               "status": "passed"
             },
             "line": 7,
@@ -448,7 +448,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.365Z",
+        "start_timestamp": "2020-03-12T06:34:27.307Z",
         "line": 42,
         "name": "Home page default login",
         "description": "",
@@ -458,7 +458,7 @@
         "steps": [
           {
             "result": {
-              "duration": 832000,
+              "duration": 1271000,
               "status": "passed"
             },
             "line": 35,
@@ -470,7 +470,7 @@
           },
           {
             "result": {
-              "duration": 360000,
+              "duration": 553000,
               "status": "passed"
             },
             "line": 36,
@@ -492,7 +492,7 @@
           },
           {
             "result": {
-              "duration": 665000,
+              "duration": 529000,
               "status": "passed"
             },
             "line": 37,
@@ -504,7 +504,7 @@
           },
           {
             "result": {
-              "duration": 517000,
+              "duration": 630000,
               "status": "passed"
             },
             "line": 38,
@@ -536,7 +536,7 @@
         "steps": [
           {
             "result": {
-              "duration": 432000,
+              "duration": 731000,
               "status": "passed"
             },
             "line": 5,
@@ -548,7 +548,7 @@
           },
           {
             "result": {
-              "duration": 463000,
+              "duration": 722000,
               "status": "passed"
             },
             "line": 6,
@@ -560,7 +560,7 @@
           },
           {
             "result": {
-              "duration": 370000,
+              "duration": 523000,
               "status": "passed"
             },
             "line": 7,
@@ -573,7 +573,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.377Z",
+        "start_timestamp": "2020-03-12T06:34:27.327Z",
         "line": 43,
         "name": "Home page default login",
         "description": "",
@@ -583,7 +583,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1302000,
+              "duration": 1419000,
               "status": "passed"
             },
             "line": 35,
@@ -595,7 +595,7 @@
           },
           {
             "result": {
-              "duration": 702000,
+              "duration": 964000,
               "status": "passed"
             },
             "line": 36,
@@ -617,7 +617,7 @@
           },
           {
             "result": {
-              "duration": 583000,
+              "duration": 689000,
               "status": "passed"
             },
             "line": 37,
@@ -629,7 +629,7 @@
           },
           {
             "result": {
-              "duration": 367000,
+              "duration": 714000,
               "status": "passed"
             },
             "line": 38,
@@ -661,7 +661,7 @@
         "steps": [
           {
             "result": {
-              "duration": 331000,
+              "duration": 876000,
               "status": "passed"
             },
             "line": 5,
@@ -673,7 +673,7 @@
           },
           {
             "result": {
-              "duration": 306000,
+              "duration": 873000,
               "status": "passed"
             },
             "line": 6,
@@ -685,7 +685,7 @@
           },
           {
             "result": {
-              "duration": 407000,
+              "duration": 609000,
               "status": "passed"
             },
             "line": 7,
@@ -698,7 +698,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.387Z",
+        "start_timestamp": "2020-03-12T06:34:27.342Z",
         "line": 44,
         "name": "Home page default login",
         "description": "",
@@ -708,7 +708,7 @@
         "steps": [
           {
             "result": {
-              "duration": 664000,
+              "duration": 1393000,
               "status": "passed"
             },
             "line": 35,
@@ -720,7 +720,7 @@
           },
           {
             "result": {
-              "duration": 303000,
+              "duration": 472000,
               "status": "passed"
             },
             "line": 36,
@@ -742,7 +742,7 @@
           },
           {
             "result": {
-              "duration": 488000,
+              "duration": 549000,
               "status": "passed"
             },
             "line": 37,
@@ -754,7 +754,7 @@
           },
           {
             "result": {
-              "duration": 628000,
+              "duration": 685000,
               "status": "passed"
             },
             "line": 38,
@@ -786,7 +786,7 @@
         "steps": [
           {
             "result": {
-              "duration": 541000,
+              "duration": 575000,
               "status": "passed"
             },
             "line": 5,
@@ -798,7 +798,7 @@
           },
           {
             "result": {
-              "duration": 473000,
+              "duration": 485000,
               "status": "passed"
             },
             "line": 6,
@@ -810,7 +810,7 @@
           },
           {
             "result": {
-              "duration": 485000,
+              "duration": 562000,
               "status": "passed"
             },
             "line": 7,
@@ -823,7 +823,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.396Z",
+        "start_timestamp": "2020-03-12T06:34:27.358Z",
         "line": 45,
         "name": "Home page default login",
         "description": "",
@@ -833,7 +833,7 @@
         "steps": [
           {
             "result": {
-              "duration": 764000,
+              "duration": 1023000,
               "status": "passed"
             },
             "line": 35,
@@ -845,7 +845,7 @@
           },
           {
             "result": {
-              "duration": 525000,
+              "duration": 479000,
               "status": "passed"
             },
             "line": 36,
@@ -867,7 +867,7 @@
           },
           {
             "result": {
-              "duration": 484000,
+              "duration": 473000,
               "status": "passed"
             },
             "line": 37,
@@ -879,7 +879,7 @@
           },
           {
             "result": {
-              "duration": 515000,
+              "duration": 581000,
               "status": "passed"
             },
             "line": 38,
@@ -923,7 +923,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-03-11T11:01:51.406Z",
+        "start_timestamp": "2020-03-12T06:34:27.372Z",
         "line": 4,
         "name": "Home page default login",
         "description": "",
@@ -933,7 +933,7 @@
         "steps": [
           {
             "result": {
-              "duration": 415000,
+              "duration": 521000,
               "status": "passed"
             },
             "line": 5,
@@ -945,7 +945,7 @@
           },
           {
             "result": {
-              "duration": 432000,
+              "duration": 658000,
               "status": "passed"
             },
             "line": 6,
@@ -967,7 +967,7 @@
           },
           {
             "result": {
-              "duration": 468000,
+              "duration": 470000,
               "status": "passed"
             },
             "line": 7,
@@ -979,7 +979,7 @@
           },
           {
             "result": {
-              "duration": 584000,
+              "duration": 601000,
               "status": "passed"
             },
             "line": 8,
@@ -1003,11 +1003,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.415Z",
+        "start_timestamp": "2020-03-12T06:34:27.384Z",
         "before": [
           {
             "result": {
-              "duration": 475000,
+              "duration": 377000,
               "status": "passed"
             },
             "match": {
@@ -1022,7 +1022,7 @@
         "after": [
           {
             "result": {
-              "duration": 65000,
+              "duration": 69000,
               "status": "passed"
             },
             "match": {
@@ -1035,7 +1035,7 @@
         "steps": [
           {
             "result": {
-              "duration": 605000,
+              "duration": 302000,
               "status": "passed"
             },
             "line": 12,
@@ -1047,7 +1047,7 @@
           },
           {
             "result": {
-              "duration": 1609000,
+              "duration": 521000,
               "status": "passed"
             },
             "line": 13,
@@ -1079,7 +1079,7 @@
           },
           {
             "result": {
-              "duration": 377000,
+              "duration": 413000,
               "status": "passed"
             },
             "line": 16,
@@ -1091,7 +1091,7 @@
           },
           {
             "result": {
-              "duration": 377000,
+              "duration": 508000,
               "status": "passed"
             },
             "line": 17,
@@ -1126,11 +1126,11 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2020-03-11T11:01:51.425Z",
+        "start_timestamp": "2020-03-12T06:34:27.395Z",
         "before": [
           {
             "result": {
-              "duration": 164000,
+              "duration": 85000,
               "status": "passed"
             },
             "match": {
@@ -1145,7 +1145,7 @@
         "after": [
           {
             "result": {
-              "duration": 38000,
+              "duration": 62000,
               "status": "passed"
             },
             "match": {
@@ -1158,7 +1158,7 @@
         "steps": [
           {
             "result": {
-              "duration": 599000,
+              "duration": 472000,
               "status": "passed"
             },
             "line": 6,
@@ -1170,7 +1170,7 @@
           },
           {
             "result": {
-              "duration": 571000,
+              "duration": 613000,
               "status": "passed"
             },
             "line": 7,
@@ -1192,7 +1192,7 @@
           },
           {
             "result": {
-              "duration": 451000,
+              "duration": 491000,
               "status": "passed"
             },
             "line": 8,
@@ -1204,7 +1204,7 @@
           },
           {
             "result": {
-              "duration": 516000,
+              "duration": 710000,
               "status": "passed"
             },
             "line": 9,
@@ -1231,7 +1231,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.439Z",
+        "start_timestamp": "2020-03-12T06:34:27.408Z",
         "line": 12,
         "name": "Home page default login",
         "description": "",
@@ -1241,7 +1241,7 @@
         "steps": [
           {
             "result": {
-              "duration": 615000,
+              "duration": 505000,
               "status": "passed"
             },
             "line": 13,
@@ -1253,7 +1253,7 @@
           },
           {
             "result": {
-              "duration": 644000,
+              "duration": 520000,
               "status": "passed"
             },
             "line": 14,
@@ -1275,7 +1275,7 @@
           },
           {
             "result": {
-              "duration": 289000,
+              "duration": 614000,
               "status": "passed"
             },
             "line": 15,
@@ -1287,7 +1287,7 @@
           },
           {
             "result": {
-              "duration": 529000,
+              "duration": 1072000,
               "status": "passed"
             },
             "line": 16,
@@ -1317,7 +1317,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.448Z",
+        "start_timestamp": "2020-03-12T06:34:27.418Z",
         "line": 19,
         "name": "Home page default login",
         "description": "",
@@ -1327,7 +1327,7 @@
         "steps": [
           {
             "result": {
-              "duration": 529000,
+              "duration": 729000,
               "status": "passed"
             },
             "line": 20,
@@ -1339,7 +1339,7 @@
           },
           {
             "result": {
-              "duration": 708000,
+              "duration": 738000,
               "status": "passed"
             },
             "line": 21,
@@ -1371,7 +1371,7 @@
           },
           {
             "result": {
-              "duration": 390000,
+              "duration": 448000,
               "status": "passed"
             },
             "line": 24,
@@ -1383,7 +1383,7 @@
           },
           {
             "result": {
-              "duration": 450000,
+              "duration": 595000,
               "status": "passed"
             },
             "line": 25,
@@ -1413,7 +1413,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.457Z",
+        "start_timestamp": "2020-03-12T06:34:27.426Z",
         "line": 36,
         "name": "Home page default login",
         "description": "",
@@ -1423,7 +1423,7 @@
         "steps": [
           {
             "result": {
-              "duration": 428000,
+              "duration": 648000,
               "status": "passed"
             },
             "line": 29,
@@ -1435,7 +1435,7 @@
           },
           {
             "result": {
-              "duration": 345000,
+              "duration": 544000,
               "status": "passed"
             },
             "line": 30,
@@ -1457,7 +1457,7 @@
           },
           {
             "result": {
-              "duration": 459000,
+              "duration": 1494000,
               "status": "passed"
             },
             "line": 31,
@@ -1469,7 +1469,7 @@
           },
           {
             "result": {
-              "duration": 400000,
+              "duration": 503000,
               "status": "passed"
             },
             "line": 32,
@@ -1493,7 +1493,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.467Z",
+        "start_timestamp": "2020-03-12T06:34:27.440Z",
         "line": 37,
         "name": "Home page default login",
         "description": "",
@@ -1503,7 +1503,7 @@
         "steps": [
           {
             "result": {
-              "duration": 438000,
+              "duration": 796000,
               "status": "passed"
             },
             "line": 29,
@@ -1515,7 +1515,7 @@
           },
           {
             "result": {
-              "duration": 488000,
+              "duration": 924000,
               "status": "passed"
             },
             "line": 30,
@@ -1537,7 +1537,7 @@
           },
           {
             "result": {
-              "duration": 555000,
+              "duration": 1271000,
               "status": "passed"
             },
             "line": 31,
@@ -1549,7 +1549,7 @@
           },
           {
             "result": {
-              "duration": 769000,
+              "duration": 783000,
               "status": "passed"
             },
             "line": 32,
@@ -1573,7 +1573,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.475Z",
+        "start_timestamp": "2020-03-12T06:34:27.450Z",
         "line": 38,
         "name": "Home page default login",
         "description": "",
@@ -1583,7 +1583,7 @@
         "steps": [
           {
             "result": {
-              "duration": 351000,
+              "duration": 468000,
               "status": "passed"
             },
             "line": 29,
@@ -1595,7 +1595,7 @@
           },
           {
             "result": {
-              "duration": 421000,
+              "duration": 438000,
               "status": "passed"
             },
             "line": 30,
@@ -1617,7 +1617,7 @@
           },
           {
             "result": {
-              "duration": 386000,
+              "duration": 417000,
               "status": "passed"
             },
             "line": 31,
@@ -1629,7 +1629,7 @@
           },
           {
             "result": {
-              "duration": 403000,
+              "duration": 291000,
               "status": "passed"
             },
             "line": 32,
@@ -1653,7 +1653,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-11T11:01:51.480Z",
+        "start_timestamp": "2020-03-12T06:34:27.455Z",
         "line": 39,
         "name": "Home page default login",
         "description": "",
@@ -1663,7 +1663,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1717000,
+              "duration": 2763000,
               "status": "passed"
             },
             "line": 29,
@@ -1675,7 +1675,7 @@
           },
           {
             "result": {
-              "duration": 636000,
+              "duration": 1043000,
               "status": "passed"
             },
             "line": 30,
@@ -1697,7 +1697,7 @@
           },
           {
             "result": {
-              "duration": 1045000,
+              "duration": 1413000,
               "status": "passed"
             },
             "line": 31,
@@ -1709,7 +1709,7 @@
           },
           {
             "result": {
-              "duration": 1329000,
+              "duration": 888000,
               "status": "passed"
             },
             "line": 32,
