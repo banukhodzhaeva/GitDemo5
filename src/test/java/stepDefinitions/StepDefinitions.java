@@ -87,6 +87,7 @@ import java.util.List;
         System.out.println("With Scenario Outline: User logged into application with username --> " + username + " and password --> " + password);
         System.out.println("First line from Indian guy");
         System.out.println("Second line from Indian guy");
+        System.out.println("Third line from Indian guy");
 
     }
 
