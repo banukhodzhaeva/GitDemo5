@@ -92,9 +92,7 @@ import java.util.List;
         System.out.println("Fourth line from Indian guy");
         System.out.println("Second line from American guy");
 
-        System.out.println("Here we're now in develop branch and Indian guy2 made a lot of changes added classes, implemented POM, added methods and etc...");
 
-        System.out.println("Here we're now in develop branch and American development team made a lot of changes added classes, implemented POM, added methods and etc...");
     }
 
 
